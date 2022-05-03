@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore", "AspNetCore\AspNetCore.csproj", "{05061FA9-2904-48BD-A23A-2B69F17036D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet", "AspNet\AspNet.csproj", "{A711FAD4-DE68-4ABB-8AA3-0AAB1A88DCF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetWpf", "AspNetWpf\AspNetWpf.csproj", "{2391CC21-1498-4A67-AD84-214DF5C2BA61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05061FA9-2904-48BD-A23A-2B69F17036D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05061FA9-2904-48BD-A23A-2B69F17036D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05061FA9-2904-48BD-A23A-2B69F17036D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05061FA9-2904-48BD-A23A-2B69F17036D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A711FAD4-DE68-4ABB-8AA3-0AAB1A88DCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A711FAD4-DE68-4ABB-8AA3-0AAB1A88DCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A711FAD4-DE68-4ABB-8AA3-0AAB1A88DCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A711FAD4-DE68-4ABB-8AA3-0AAB1A88DCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2391CC21-1498-4A67-AD84-214DF5C2BA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2391CC21-1498-4A67-AD84-214DF5C2BA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2391CC21-1498-4A67-AD84-214DF5C2BA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2391CC21-1498-4A67-AD84-214DF5C2BA61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DBBCE5B-24E1-499E-ADB2-3FB142E39379}
+	EndGlobalSection
+EndGlobal
